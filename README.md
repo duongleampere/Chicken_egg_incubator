@@ -7,3 +7,7 @@
 - USB CP2102 (UART)
 - ON-OFF Controller
 - PID Controller
+
+# Circuit board:
+
+![image](https://user-images.githubusercontent.com/69660620/116667221-21c35400-a9c6-11eb-9321-a40a0727a99e.png)
