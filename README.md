@@ -1,6 +1,6 @@
 # Chicken_egg_incubator
 
-#Components:
+# Components:
 - STM32F407 discovery
 - DHT12 (I2C)
 - Solid State Relay SSR-75DA-H Fotek
